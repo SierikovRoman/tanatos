@@ -1,0 +1,18 @@
+{
+  "name": "TANATOS",
+  "version": "1.0.0",
+  "description": "simple template",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-server-livereload": "^1.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Sierikov",
+  "license": "ISC"
+}
