@@ -10,3 +10,7 @@ Simple realized template of "Tanatos" project
 ## Authors
 
 * **Roman Sierikov** - *R.S.* - [GitHub](https://github.com/SierikovRoman) - Frontend developer
+
+## Live
+
+https://sierikovroman.github.io/tanatos/
